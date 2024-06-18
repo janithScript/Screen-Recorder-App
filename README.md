@@ -9,4 +9,8 @@ Run in terminal:
 
 * pip install pyscreenrec
 
-![scr_rec](https://github.com/janithScript/Screen-Recorder-App/assets/127806197/dde0c97c-139f-4797-bb1d-7490274a35cd)
+  
+
+![recorder](https://github.com/janithScript/Screen-Recorder-App/assets/127806197/28537148-adf3-4d94-b121-974b2b8b48a4)
+
+
