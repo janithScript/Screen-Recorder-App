@@ -4,6 +4,7 @@ This project is a simple yet powerful screen recording application built using P
 
 
 
+
 Run in terminal: 
 
 * pip install pyscreenrec
