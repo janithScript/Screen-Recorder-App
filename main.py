@@ -1,7 +1,6 @@
 from tkinter import *
 import pyscreenrec
 
-
 root = Tk()
 root.geometry("400x600")
 root.title("Screen Recorder")
