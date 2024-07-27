@@ -26,7 +26,6 @@ rec = pyscreenrec.ScreenRecorder()
 image_icon = PhotoImage(file="camera.png")
 root.iconphoto(False, image_icon)
 
-
 # background images
 image1 = PhotoImage(file="test (1).png")
 Label(root, image=image1, bg="#000000").place(x=-2, y=35)
