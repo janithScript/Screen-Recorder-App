@@ -62,4 +62,5 @@ image6 = PhotoImage(file="stop.png")
 stop = Button(root, image=image6, bd=0, bg="#000000", command=stop_rec)
 stop.place(x=265, y=450)
 
+
 root.mainloop()
